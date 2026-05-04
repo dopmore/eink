@@ -1,3 +1,6 @@
+<img width="1752" height="2480" alt="Tiny e-reader" src="https://github.com/user-attachments/assets/736e2d1d-7cda-46d3-a327-72dbf8a5e795" />
+
+
 # Tiny-e-ink-Ebook-reader
 This project aims to create a small portable e-reader, using an E-ink Display and a SD-card for storage.
 It includes a Multi Directional Switch and a Select Button for inputs. While the MDS is for navigation (Next Page / Last Page), the select button is used to make a book mark and the middle button of the MDS then can be used to go back to the saved bookmark. 
