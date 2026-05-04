@@ -20,3 +20,7 @@ I wanted to make this to be able to read books anywhere at any time without need
 ## Schematics
 <img width="4960" height="3507" alt="image" src="https://github.com/user-attachments/assets/7ca8a65a-fe31-4dc1-880f-cc72cb0f937a" />
 
+## PCBA:
+<img width="1498" height="786" alt="image" src="https://github.com/user-attachments/assets/48fa40a6-4bfb-4b01-8c4b-0f74c8b928e6" />
+
+## BOM
