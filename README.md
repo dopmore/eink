@@ -14,6 +14,7 @@ I wanted to make this to be able to read books anywhere at any time without need
 
 ## PCB
 <img width="1102" height="710" alt="eink2" src="https://github.com/user-attachments/assets/b1bf493b-dc03-4811-8bdd-73be98d7200b" />
+
 <img width="430" height="656" alt="image" src="https://github.com/user-attachments/assets/510796b6-1f57-4809-bf77-45e71ed86e5d" />
 
 
@@ -30,7 +31,7 @@ I wanted to make this to be able to read books anywhere at any time without need
 ## BOM
 | Component                                | Link    / Company                                              | Price            | Shipping | 
 | ---- | ---- | ---- | ---- |
-| PCB + Stencil                            | jlcpcb.com | $12.44         | / (coupon) |
+| PCB + Stencil                            | jlcpcb.com | $12.44         | free (coupon) |
 | PCB-Parts  | lcsc.com | $15.42 | $8.95 |
 | 103450 3,7 V 1500 mAh Polymer-Lithium-Akku jst PH 2,0 mm                        | https://www.aliexpress.com/item/1005009590723370.html | $7.60 | free |
 | E-paper Screen 296x128 (GDEY029T94)                | https://buy-lcd.com/products/29-inch-e-paper-screen-296x128-raspberry-pi-spi-display-gdey029t94?VariantsId=10173 | $7.91         | $10 |
