@@ -23,11 +23,16 @@ I wanted to make this to be able to read books anywhere at any time without need
 ## PCB-order:
 <img width="410" height="501" alt="image" src="https://github.com/user-attachments/assets/cd461f04-6f38-4001-a829-165cbbb267f9" />
 
+## Parts (LCSC):
+<img width="394" height="481" alt="image" src="https://github.com/user-attachments/assets/32092646-83ca-469a-b6b1-09ba60e69f98" />
+
+
 ## BOM
 | Component                                | Link    / Company                                              | Price            | Shipping | 
 | ---- | ---- | ---- | ---- |
 | PCB + Stencil                            | jlcpcb.com | $12.44         | / (coupon) |
+| PCB-Parts  | lcsc.com | $15.42 | $8.95 |
 | 103450 3,7 V 1500 mAh Polymer-Lithium-Akku jst PH 2,0 mm                        | https://www.aliexpress.com/item/1005009590723370.html | $7.60 | free |
 | E-paper Screen 296x128 (GDEY029T94)                | https://buy-lcd.com/products/29-inch-e-paper-screen-296x128-raspberry-pi-spi-display-gdey029t94?VariantsId=10173 | $7.91         | $10 |
 
-Total: 37.95 (Incl. Shipping)
+Total: 62.32 (Incl. Shipping)
