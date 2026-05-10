@@ -1,5 +1,4 @@
-<img width="1752" height="2480" alt="Tiny e-reader" src="https://github.com/user-attachments/assets/736e2d1d-7cda-46d3-a327-72dbf8a5e795" />
-
+<img width="1752" height="2480" alt="Tiny  e-reader" src="https://github.com/user-attachments/assets/22f554e1-e2b3-4a42-beb2-54f6d1262126" />
 
 # Tiny-e-ink-Ebook-reader
 This project aims to create a small portable e-reader, using an E-ink Display and a SD-card for storage.
